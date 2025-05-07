@@ -1,0 +1,13 @@
+# Distribution / packaging
+env/
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# pyenv
+.python-version
+
+# cache
+*/**/__pycache__
